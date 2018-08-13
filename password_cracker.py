@@ -101,7 +101,7 @@ def targeted_attack(hash, words):
 
 parser = argparse.ArgumentParser(description="Simple password cracker. "+ 
 	"Only a proof-of-concept for educational purposes. "+
-	" See x for the full code and documentation.")
+	" See github.com/mthambipillai/password-cracker for the full code and documentation.")
 parser.add_argument("hash", help="SHA256 hash of the password to crack.")
 parser.add_argument("method",
 	help="Cracking method to use. Possible values are : brute_force, dict, dict_repl, targeted. ")
