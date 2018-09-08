@@ -1,5 +1,5 @@
 # password-cracker
-Basic password cracker as a proof-of-concept for educational purposes. Given a hash and a cracking technique, the program applies the technique to recover the original password from the hash. This project is intended as a learning material for my [video](#) about password cracking on my [Youtube channel](https://www.youtube.com/channel/UCMzZh0q-rcd9yDEOTXAH90g).
+Basic password cracker as a proof-of-concept for educational purposes. Given a hash and a cracking technique, the program applies the technique to recover the original password from the hash. This project is intended as a learning material for my [video](https://www.youtube.com/watch?v=Z8nGpUOQPaA&feature=youtu.be) about password cracking on my [Youtube channel](https://www.youtube.com/channel/UCMzZh0q-rcd9yDEOTXAH90g).
 
 ## Requirements
 
