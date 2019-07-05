@@ -3,7 +3,7 @@ Basic password cracker as a proof-of-concept for educational purposes. Given a h
 
 ## Requirements
 
-You need to have [Python](https://www.python.org/downloads/) installed to run the script.
+You need to have [Python2](https://www.python.org/downloads/) installed to run the script.
 
 ## Usage
 
